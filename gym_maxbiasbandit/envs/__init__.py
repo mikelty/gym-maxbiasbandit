@@ -1,0 +1,1 @@
+from gym_maxbiasbandit.envs.max_bias_bandit_env import MaxBiasBanditEnv
